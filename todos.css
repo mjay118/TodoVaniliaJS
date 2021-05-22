@@ -1,0 +1,21 @@
+body {
+    background-color: hsl(202deg 100% 37%);
+}
+
+.add-list {
+    background-color: hsl(202deg 60% 52%);
+    color: white;
+}
+
+.grey {
+    background-color: hsl(240deg 14% 93%);
+}
+.dots{
+    color:grey;
+    font-size: 15px;;
+    margin-right: 20px;
+}
+.addcard{ 
+    color:grey;
+    margin-left: 62px;           
+}
